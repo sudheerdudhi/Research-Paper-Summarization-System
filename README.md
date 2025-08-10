@@ -18,5 +18,5 @@ streamlit run app.py
 ## Deploy to Streamlit Cloud
 
 1. Push this folder to GitHub.
-2. Go to https://google ai studio
+2. Go to https://aistudio.google.com/apikey
 3. Create a new app, link your repo, and set the `aistudio_API_KEY` in the secrets manager.
